@@ -140,3 +140,11 @@ vite.config.ts.timestamp-*
 package-lock.json
 package.json
 cypress/fixtures/example.json
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+playwright.config.ts
